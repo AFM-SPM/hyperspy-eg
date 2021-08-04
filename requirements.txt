@@ -1,0 +1,4 @@
+hyperspy==1.6.4
+hyperspy-gui-ipywidgets==1.4.0
+hyperspy-gui-traitsui==1.4.0
+pySPM==0.2.23
